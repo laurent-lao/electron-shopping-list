@@ -1,2 +1,4 @@
 release-builds/*
 node_modules/*
+npm-debug.log
+winehq.key
